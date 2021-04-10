@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JS Reference VS Copy</title>
+</head>
+<body>
+
+  <script>
+    // start with strings, numbers and booleans
+    // let age = 100;
+    // let age2 = age;
+    // console.log(age, age2);
+    // age = 200;
+    // console.log(age, age2);
+
+    // let name = 'Wes';
+    // let name2 = name;
+    // console.log(name, name2);
+    // name = 'wesley';
+    // console.log(name, name2);
+
+    // Let's say we have an array
+    const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
+
+    // and we want to make a copy of it.
+    const team = players;
+
+    console.log(players, team);
+    // You might think we can just do something like this:
+    // team[3] = 'Lux';
+
+    // QUANDO VOCÊ MODIFICA O ARRAY (TEAM), VOCÊ TAMBÉM ACABA ATRIBUINDO ESSA MUDANÇA PARA O ARRAY (PLAYERS).  
+    // ACABA POR MODIFICAR OS DOIS ARRAYS.
+
+    // UMA FORMA DE COPIAR O ARRAY É ATRIBUINDO A CONST TEAM2 AO PRIMEIRO ARRAY COM SLICE (VAZIO);
+    const team2 = players.slice();
+
+    // A SEGUNDA FORMA É ATRIBUIR UM ARRAY VAZIO E CONCAT COM O ARRAY EM QUE VOCÊ QUER COPIAR
+
+    const team3 = [].concat(players);
+
+    // OU USAR SPREAD EM UM NOVO ARRAY (VAZIO OU NÃO)
+    const team4 = [...players];
+    team4[3] = 'hello';
+    console.log(team4);
+
+    const team5 = Array.from(players);
+
+    // The same thing goes for objects, let's say we have a person object
+
+    // with Objects
+    const person = {
+      name: 'Wes Bos',
+      age: 80
+    };
+
+    // and think we make a copy:
+    // const captain = person;
+    // captain.number = 99;
+
+    // COMO FAZER A COPIA DO OBJETO? 
+    // ATRIBUIR COM OBJECT.ASSIGN(OBJETO VAZIO, +OBJETO DESEJADO, +O QUE SE DESEJA MUDAR/ADICIONAR)
+    const cap2 = Object.assign({}, person, { number: 99, age: 12 });
+    console.log(cap2);
+
+    // Things to note - this is only 1 level deep - both for Arrays and Objects. lodash has a cloneDeep method, but you should think twice before using it.
+    // PORÉM ESSA 'COPIA' DO OBJETO SÓ VAI PARA UM NÍVEL (NÃO FAZ ATRIBUIÇÃO DE UM OBJETO DENTRO DE OBJETO)
+    // PARA FAZER ISSO VOCÊ DEVE FAZER UMA ATRIBUIÇÃO DENTRO DE ATRIBUIÇÃO (OBJETO POR OBJETO). o que tornaria difícil o processo.
+
+    const wes = {
+      name: 'Wes',
+      age: 100,
+      social: {
+        twitter: '@wesbos',
+        facebook: 'wesbos.developer'
+      }
+    };
+
+    console.clear();
+    console.log(wes);
+
+    const dev = Object.assign({}, wes);
+
+    const dev2 = JSON.parse(JSON.stringify(wes));
+
+
+  </script>
+
+</body>
+</html>

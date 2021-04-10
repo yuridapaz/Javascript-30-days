@@ -8,18 +8,17 @@
 <body>
 <script>
   const pressed = [];
-  const secretCode = 'yuri';
+  const secretCode = 'unicorn';
 
   window.addEventListener('keyup', (e) => {
-    console.log(e.key);
     pressed.push(e.key); 
     pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
-    console.log(pressed);
     if(pressed.join('').includes(secretCode)) {
-      console.log('DING DING!!!');
+      // console.log('DING DING!!!');
+      console.log('%c You unlocked the secret of this website!', 'font-size: 24px; color: grey; font-style: italic;');
       cornify_add();
     }
-    console.log(pressed);
+    console.log(e.key);
   });
 </script>
 </body>

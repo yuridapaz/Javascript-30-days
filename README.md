@@ -9,7 +9,7 @@ You can find the original files in its respective folder, as well as my own file
 
 ## Day 01 - Drum Kit
 It is more fun with a sound going off as you press the keys.
-![]( adicionar link do github)
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/JavaScript%20Drum%20Kit.gif)
 
 ## Day 02 - CSS Clock
 ![]( adicionar link do github)

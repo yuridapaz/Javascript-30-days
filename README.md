@@ -1,4 +1,3 @@
-
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
@@ -6,94 +5,122 @@
 This is my [JavaScript30](https://JavaScript30.com) Days Challenge.  
 You can find the original files in its respective folder, as well as my own files (labeled with "-yuri" at the end).
 
-
 ## Day 01 - Drum Kit
+
 It is more fun with a sound going off as you press the keys.
 ![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/JavaScript%20Drum%20Kit.gif)
 
 ## Day 02 - CSS Clock
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/JS%20and%20CSS%20Clock.gif)
 
 ## Day 03 - CSS Variables
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/CSS%20Variables.gif)
 
 ## Day 04 - Array Cardio 1
-Nothing to display. [Code here]
-(adicionar link do github)
+
+Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/tree/master/04%20-%20Array%20Cardio%20Day%201)
 
 ## Day 05 - Flex Panel Gallery
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Flex%20Panel%20Gallery.gif)
+
 ## Day 06 - Type Ahead
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Type%20Ahead.gif)
 
 ## Day 07 - Array Cardio 2
-Nothing to display. [Code here](https://github.com/gustavoaz7/100DaysOfCode/blob/master/JavaScript30/07%20-%20Array%20Cardio%20Day%202/index-gus.html)
+
+Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/tree/master/07%20-%20Array%20Cardio%20Day%202)
 
 ## Day 08 - Fun With HTML5 Canvas
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Fun%20with%20HTML5%20Canvas.gif)
 
 ## Day 09 - Dev Tools Domination
-Nothing to display. [Code here]![]( adicionar link do github)
+
+Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/tree/master/09%20-%20Dev%20Tools%20Domination)
 
 ## Day 10 - Hold Shift and Checkboxes
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Hold%20Shift%20and%20Check%20Checkboxes.gif)
 
 ## Day 11 - Custom Video Player
-Left slide bar: Volume  |   Right slide bar: Speed rate
-![]( adicionar link do github)
+
+Left slide bar: Volume | Right slide bar: Speed rate
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Custom%20Video%20Player.gif)
 
 ## Day 12 - Key Sequence Detection
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Key%20Sequence%20Detection.gif)
 
 ## Day 13 - Slide in on Scroll
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Slide%20in%20on%20Scroll.gif)
 
 ## Day 14 - JavaScript References VS Copying
-Nothing to display. [Code here]![]( adicionar link do github)
+
+Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/tree/master/14%20-%20JavaScript%20References%20VS%20Copying)
 
 ## Day 15 - LocalStorage
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/%20LocalStorage.gif)
 
 ## Day 16 - Mouse Move Shadow
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Mouse%20Move%20Shadow.gif)
 
 ## Day 17 - Sort Without Articles
-![]( adicionar link do github)
+
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Sort%20Without%20Articles.png)
 
 ## Day 18 - Adding Up Times With Reduce
-Nothing to display. [Code here]![]( adicionar link do github)
+
+Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
 
 ## Day 19 - Webcam Fun
+
 ![]( adicionar link do github)
 
 ## Day 20 - Speech Detection
+
 ![]( adicionar link do github)
 
 ## Day 21 - Geolocation
 
 ## Day 22 - Follow Along Link Highlitghter
+
 ![]( adicionar link do github)
 
 ## Day 23 - Speech Synthesis
+
 ![]( adicionar link do github)
 
 ## Day 24 - Sticky Nav
+
 ![]( adicionar link do github)
 
 ## Day 25 - Event Capture, Propagation, Bubbling and Oce
+
 Nothing to display. [Code here]![]( adicionar link do github)
 
 ## Day 26 - Stripe Follow Along Nav
+
 ![]( adicionar link do github)
 
 ## Day 27 - Click and Drag
+
 ![]( adicionar link do github)
 
 ## Day 28 - Video Speed Controller
+
 ![]( adicionar link do github)
 
 ## Day 29 - Countdown Timer
+
 ![]( adicionar link do github)
 
 ## Day 30 - Whack A Mole Game
+
 ![]( adicionar link do github)

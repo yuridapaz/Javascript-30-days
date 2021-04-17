@@ -91,7 +91,7 @@ Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/
 
 ## Day 22 - Follow Along Link Highlitghter
 
-![]( adicionar link do github)
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Follow%20Along%20Link%20Highlighter.gif)
 
 ## Day 23 - Speech Synthesis
 

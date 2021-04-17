@@ -85,9 +85,11 @@ Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/
 
 ## Day 20 - Speech Detection
 
-![]( adicionar link do github)
+Nothing to display. [Code here]()
 
 ## Day 21 - Geolocation
+
+[Code here](https://github.com/yuridapaz/Javascript-30-days/tree/master/21%20-%20Geolocation)
 
 ## Day 22 - Follow Along Link Highlitghter
 

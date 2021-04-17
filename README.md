@@ -81,46 +81,48 @@ Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/
 
 ## Day 19 - Webcam Fun
 
-![]( adicionar link do github)
+![]()
 
 ## Day 20 - Speech Detection
 
-![]( adicionar link do github)
+Nothing to display. [Code here]()
 
 ## Day 21 - Geolocation
 
+[Code here](https://github.com/yuridapaz/Javascript-30-days/tree/master/21%20-%20Geolocation)
+
 ## Day 22 - Follow Along Link Highlitghter
 
-![]( adicionar link do github)
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Follow%20Along%20Link%20Highlighter.gif)
 
 ## Day 23 - Speech Synthesis
 
-![]( adicionar link do github)
+![]()
 
 ## Day 24 - Sticky Nav
 
-![]( adicionar link do github)
+![]()
 
 ## Day 25 - Event Capture, Propagation, Bubbling and Oce
 
-Nothing to display. [Code here]![]( adicionar link do github)
+Nothing to display. [Code here]![]()
 
 ## Day 26 - Stripe Follow Along Nav
 
-![]( adicionar link do github)
+![]()
 
 ## Day 27 - Click and Drag
 
-![]( adicionar link do github)
+![]()
 
 ## Day 28 - Video Speed Controller
 
-![]( adicionar link do github)
+![]()
 
 ## Day 29 - Countdown Timer
 
-![]( adicionar link do github)
+![]()
 
 ## Day 30 - Whack A Mole Game
 
-![]( adicionar link do github)
+![]()

@@ -97,7 +97,7 @@ Nothing to display. [Code here]()
 
 ## Day 23 - Speech Synthesis
 
-![]()
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Speech%20Synthesis.png)
 
 ## Day 24 - Sticky Nav
 

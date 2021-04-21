@@ -101,7 +101,7 @@ Nothing to display. [Code here]()
 
 ## Day 24 - Sticky Nav
 
-![]()
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Sticky%20Nav.gif)
 
 ## Day 25 - Event Capture, Propagation, Bubbling and Oce
 

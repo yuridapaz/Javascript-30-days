@@ -105,7 +105,7 @@ Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/
 
 ## Day 25 - Event Capture, Propagation, Bubbling and Oce
 
-Nothing to display. [Code here]![](https://github.com/yuridapaz/Javascript-30-days/tree/master/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
+Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/tree/master/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
 
 ## Day 26 - Stripe Follow Along Nav
 

@@ -22,7 +22,7 @@
     <div class="item item13">13</div>
     <div class="item item14">14</div>
     <div class="item item15">15</div>
-    <div class="item item16">16</div>
+    <div class="item item16">16</div> 
     <div class="item item17">17</div>
     <div class="item item18">18</div>
     <div class="item item19">19</div>
@@ -35,6 +35,37 @@
   </div>
 
 <script>
+    const slider = document.querySelector('.items');
+    let isDown = false;
+    let startX;
+    let scrollLeft;
+
+    slider.addEventListener('mousedown', (e) => {
+      isDown = true; 
+      slider.classList.add('active');
+      startX = e.pageX - slider.offsetLeft;
+      scrollLeft = slider.scrollLeft; 
+    });
+
+    slider.addEventListener('mouseleave', () => {
+      isDown = false; 
+      slider.classList.remove('active');
+    });
+
+    slider.addEventListener('mouseup', () => {
+      isDown = false; 
+      slider.classList.remove('active');
+    });
+
+    slider.addEventListener('mousemove', (e) => {
+      if(!isDown) return; 
+      e.preventDefault();
+      const x = e.pageX - slider.offsetLeft;
+      const walk = (x - startX) *2;
+      slider.scrollLeft = scrollLeft -  walk;
+    });
+
+
 </script>
 
   </body>

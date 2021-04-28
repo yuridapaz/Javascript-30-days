@@ -26,10 +26,6 @@ h1 {
 button {
   width: 10rem;
   height: 3rem;
-  position: absolute;
-  top: 70%;
-  left: 50%;
-  margin-left: -3%;
 }
 
 .score {

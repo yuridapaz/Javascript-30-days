@@ -81,7 +81,7 @@ Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/
 
 ## Day 19 - Webcam Fun
 
-![]()
+![Code here](https://github.com/yuridapaz/Javascript-30-days/tree/master/19%20-%20Webcam%20Fun)
 
 ## Day 20 - Speech Detection
 
@@ -113,16 +113,16 @@ Nothing to display. [Code here](https://github.com/yuridapaz/Javascript-30-days/
 
 ## Day 27 - Click and Drag
 
-![]()
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Click%20and%20Drag.gif)
 
 ## Day 28 - Video Speed Controller
 
-![]()
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Video%20speed%20controller.gif)
 
 ## Day 29 - Countdown Timer
 
-![]()
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Countdown%20Timer.gif)
 
 ## Day 30 - Whack A Mole Game
 
-![]()
+![](https://github.com/yuridapaz/Javascript-30-days/blob/master/Images%20e%20Gifs/Whack%20a%20mole.gif)
